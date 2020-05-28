@@ -30,7 +30,7 @@ Para la realizacion de este proyecto se utilizaron las siguientes herramientas:
 * Se incluye en la raiz del repositorio un archivo llamado *"mail.txt"* el cual incluye las variables de entorno que hay que reemplazar en el archivo .env creado del paso anterior para que el envio de correos funcione correctamente.
 * Abrir una terminal o consola e ir a la ruta donde se encuenta el proyecto, ejecutar el siguiente comando para instalar todos los paquetes necesarios.
 ```
-php composer install
+composer install
 ```
 * Ahora ejecutar el siguiente comando para generar una key necesaria para el proyecto
 ```
