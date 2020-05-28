@@ -1,0 +1,11 @@
+Copiar estas variables reemplazando las que se encuentran en el archivo .env
+Para que funcione correctamente el envio de correos electronicos al hacer una venta.
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.googlemail.com
+MAIL_PORT=465
+MAIL_USERNAME="abarrotesperrones@gmail.com"
+MAIL_PASSWORD="yedcpiszofbixifb"
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS="abarrotesperrones@gmail.com"
+MAIL_FROM_NAME="Ventas"
