@@ -34,7 +34,7 @@ composer install
 ```
 * Ahora ejecutar el siguiente comando para generar una key necesaria para el proyecto
 ```
-php composer key:generate
+php artisan key:generate
 ```
 * En el archivo *".env"* agregar en las siguientes variables los datos correspondientes *"DB_DATABASE"* agregar el nombre de la base de datos en la que se almacenara la informacion, *"DB_USERNAME"* el nombre del usuario de la base de datos, *"DB_PASSWORD"* agregar la contraseña en caso de que tenga el usuario una. En caso de no tener usuario o contraseña, no modificar los campos y dejarlos con los valores del archivo *".env.example"*
 
